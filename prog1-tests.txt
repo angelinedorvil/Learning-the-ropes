@@ -1,0 +1,8 @@
+Tests used for prog1;
+
+nbStars 	nbLines 	expected behavior 				observed?
+0 		n/a 		refuses nbStars, prompts again 			ok
+0 then 2 	0 		refuses nbStarts, accepts 2nd value 		ok
+2 		0 		refuses nbLines & prompts again after  		ok
+				accepting nbStars
+				

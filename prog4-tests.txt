@@ -1,0 +1,20 @@
+Tests used for prog4;
+
+R1	R2	R3	expected payoff			observed payoff
+0	--	-- 	refuses R1-prompts for re-entry	--
+6	0	--	refuses R2-prompts for re-entry	--
+5	3	9 	refuses R3-prompts for re-entry	--
+Checking if user inputs an incorrect dice roll number for any die, if they are prompted to try again so that all values are within acceptable range
+
+1	1	1  	1					1
+check if the payoff is calculated properly when all the dices roll the lowest possible value 
+
+4	6	5 	2					2
+checking combination numbers for payoff when R2 is greater than R1 and R3 is greater than R1
+
+4	2	3 	3					3
+checking combination numbers for payoff when R2 is less than R1 and R3 is greater than R2, but R3 is less than R1
+
+6	5	3 	5					5
+checking combination numbers for payoff when R2 is less than R1 and R3 is less than R2
+
