@@ -1,10 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 /*
-Assignment  M2PA
 File        prog4.c
 
-Student:    [Angeline Dorvil] [U95528605]
+Student:    [Angeline Dorvil] 
 Date:       [10/30/2023]
 
 Features:   [Calculate the total payoff of a dice game]
