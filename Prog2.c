@@ -1,10 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 /*
-Assignment  M2PA
 File        prog2.c
 
-Student:    [Angeline Dorvil] [U95528605]
+Student:    [Angeline Dorvil] 
 Date:       [10/20/2023]
 
 Features:   [Print out stars on numbered lines based on user input]
