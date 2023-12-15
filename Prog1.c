@@ -1,10 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 /*
-Assignment  M2PA
 File        prog1.c
 
-Student:    [Angeline Dorvil] [U95528605]
+Student:    [Angeline Dorvil] 
 Date:       [10/30/2023]
 
 Features:   [Receives inputs from user to complete patterns of symbols]
